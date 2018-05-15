@@ -1,4 +1,4 @@
-# CT-ECE5413-Parking-System
+# Smart Car Parking System
 
 A smart car parking system that sends parking vacancy notifications directly to your cellphone. 
 
